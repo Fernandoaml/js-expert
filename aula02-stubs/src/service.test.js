@@ -42,6 +42,7 @@ const mocks = {
       appearedIn: 2,
     };
     const results = await service.getPlanets(BASE_URL_2);
+    console.log(results);
     deepStrictEqual(results, expected);
   }
 })();
