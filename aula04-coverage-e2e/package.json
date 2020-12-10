@@ -7,10 +7,12 @@
     "supertest": "^6.0.1"
   },
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "npx mocha -w --parallel src/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel src/*.test.js"
   },
   "keywords": [],
   "author": "",
