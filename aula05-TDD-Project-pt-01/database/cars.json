@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a5c7e532-0fc7-441a-8151-c5fadb2f0bca",
+    "name": "Spyder",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "beb337ba-1ef4-4066-8f66-df4954a56f7e",
+    "name": "Beetle",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "38e6b7d6-faf1-4621-95a4-845e3196a4a3",
+    "name": "Wrangler",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5c7a8072-372d-46c4-bc36-b7cc66f9009f",
+    "name": "ATS",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]

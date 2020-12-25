@@ -2,33 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js-expert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/database/carCategories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/database/cars.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/database/customers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/scr/entities/base/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/scr/entities/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/scr/entities/carCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/scr/entities/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/seed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-01/test/useCases/story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/.nyc_output/36ccf3df-32fa-4740-8b82-98c0f491306d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/.nyc_output/processinfo/36ccf3df-32fa-4740-8b82-98c0f491306d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/.nyc_output/processinfo/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/.nycrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/block-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/repository/base/baseRepository.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/repository/base/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/service/carService.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/service/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/coverage/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/database/carCategories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/database/cars.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/database/customers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/seed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/entities/base/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/entities/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/entities/carCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/entities/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/repository/base/baseRepository.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/src/service/carService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/test/mocks/valid-car.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/test/mocks/valid-carCategory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/test/mocks/valid-customer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/test/unitTests/carService.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-02/test/useCases/story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js-expert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js-expert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula04-coverage-e2e/.nycrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula04-coverage-e2e/.nycrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula04-coverage-e2e/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula04-coverage-e2e/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula04-coverage-e2e/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula04-coverage-e2e/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula04-coverage-e2e/src/api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula04-coverage-e2e/src/api.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lTVXcM0gnebiWem8vwFPpcFhPz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.codota.intellij.common.configuration.CodotaConfigurable" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula05-TDD-Project-pt-02" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ferna\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.23421589" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\js-expert\aula05-TDD-Project-pt-02" />
+      <recent name="E:\js-expert" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="test:cov2" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.test:cov2">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-expert/aula04-coverage-e2e/coverage/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test:cov" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/aula04-coverage-e2e/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:cov" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:cov2" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/aula05-TDD-Project-pt-02/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:cov2" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test:cov2" />
+        <item itemvalue="npm.test:cov" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +147,16 @@
       <option name="presentableId" value="Default" />
       <updated>1607621120805</updated>
       <workItem from="1607621128525" duration="621000" />
+      <workItem from="1608530247922" duration="48000" />
+      <workItem from="1608558691375" duration="33000" />
+      <workItem from="1608560394935" duration="107000" />
+      <workItem from="1608735310523" duration="117000" />
+      <workItem from="1608735457671" duration="8063000" />
+      <workItem from="1608749040914" duration="3931000" />
+      <workItem from="1608777704534" duration="1109000" />
+      <workItem from="1608821767458" duration="1839000" />
+      <workItem from="1608824030328" duration="11110000" />
+      <workItem from="1608918676763" duration="5193000" />
     </task>
     <servers />
   </component>
@@ -55,6 +173,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

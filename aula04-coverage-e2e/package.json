@@ -12,7 +12,8 @@
   },
   "scripts": {
     "test": "npx mocha -w --parallel src/*.test.js",
-    "test:cov": "npx nyc npx mocha --parallel src/*.test.js"
+    "test:cov": "npx nyc npx mocha --parallel src/*.test.js",
+    "test:cov2": "npx nyc mocha --no-parallel src/*.test.js --exit --check-leaks"
   },
   "keywords": [],
   "author": "",
