@@ -1,0 +1,30 @@
+[
+  {
+    "id": "337fa98a-f89c-4e86-a08e-4c3866768e41",
+    "name": "Explorer",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "875c78e2-c496-409f-bee0-56ce282f5804",
+    "name": "Civic",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "fd650473-1ff5-4064-a8ab-6e49000b7367",
+    "name": "Escalade",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "dde032b5-9fd2-43ec-9d7a-783bb6783c72",
+    "name": "Ranchero",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
