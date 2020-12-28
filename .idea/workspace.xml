@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/.nyc_output/processinfo/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/.nycrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/block-navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/entities/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/entities/tax.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/entities/transaction.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/repository/base/baseRepository.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/repository/base/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/service/carService.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/service/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/sort-arrow-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/coverage/sorter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/database/carCategories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/database/cars.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/database/customers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/seed/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/base/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/carCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/customer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/tax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/entities/transaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/repository/base/baseRepository.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/src/service/carService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/test/mocks/valid-car.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/test/mocks/valid-carCategory.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/test/mocks/valid-customer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/test/unitTests/carService.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05-TDD-Project-pt-03/test/useCases/story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas-Exemplos/prototypeChain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo01-this-apply-call-arguments/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/database.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ferna\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.23421589" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -145,7 +114,8 @@
       <workItem from="1608777704534" duration="1109000" />
       <workItem from="1608821767458" duration="1839000" />
       <workItem from="1608824030328" duration="11110000" />
-      <workItem from="1608918676763" duration="16985000" />
+      <workItem from="1608918676763" duration="17128000" />
+      <workItem from="1609085429615" duration="18795000" />
     </task>
     <servers />
   </component>
