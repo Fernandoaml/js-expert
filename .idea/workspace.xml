@@ -2,13 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas-Exemplos/prototypeChain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo03/demo01-this-apply-call-arguments/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/database.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/src/person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/database.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/src/person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization02/src/terminalController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.nyc_output/b09a4142-d00f-4c28-96fe-50b9c557b7dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.nyc_output/processinfo/b09a4142-d00f-4c28-96fe-50b9c557b7dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.nyc_output/processinfo/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.nycrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.reify-cache/46a2323525b5cf986ec13bac9ff5f0cf07ec4355.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/.reify-cache/764682f3a2dcb84f68b3483a8d2c2bf56f2efd1f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/block-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/person.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/coverage/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/database.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/src/person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/src/repository.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/src/terminalController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03/test/person.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/database.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/database.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +69,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ferna\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.23421589" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\js-expert\Modulo03\demo02-esmodules-internacionalization03" />
+      <recent name="E:\js-expert\Modulo03" />
       <recent name="E:\js-expert" />
       <recent name="E:\js-expert\aula05-TDD-Project-pt-02" />
     </key>
@@ -89,14 +126,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="npm.test:cov2" />
         <item itemvalue="npm.test:cov" />
+        <item itemvalue="npm.test:cov2" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="" />
@@ -116,6 +156,14 @@
       <workItem from="1608824030328" duration="11110000" />
       <workItem from="1608918676763" duration="17128000" />
       <workItem from="1609085429615" duration="18795000" />
+      <workItem from="1609187491385" duration="1989000" />
+      <workItem from="1609189502468" duration="143000" />
+      <workItem from="1609189659654" duration="342000" />
+      <workItem from="1609190016532" duration="434000" />
+      <workItem from="1609191007888" duration="2876000" />
+      <workItem from="1609246783578" duration="11733000" />
+      <workItem from="1609388007112" duration="362000" />
+      <workItem from="1609689622506" duration="10541000" />
     </task>
     <servers />
   </component>
