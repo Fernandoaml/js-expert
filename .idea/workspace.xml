@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula01-generators-interatos/generators-interators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula02-symbol/symbol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula03-Map-WeakMap/map-weakMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula04-set-e-weakset/set-e-weakset.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +150,7 @@
       <workItem from="1609897999535" duration="3460000" />
       <workItem from="1610035183451" duration="8774000" />
       <workItem from="1610112267911" duration="5343000" />
-      <workItem from="1610128087048" duration="1216000" />
+      <workItem from="1610128087048" duration="3584000" />
     </task>
     <servers />
   </component>
