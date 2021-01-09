@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula04-set-e-weakset/set-e-weakset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula05-reflect/aula05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula05-reflect/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,9 @@
       <recent name="E:\js-expert\Modulo03\demo02-esmodules-internacionalization" />
       <recent name="E:\js-expert\Modulo03\demo01-this-apply-call-arguments" />
       <recent name="E:\js-expert\Modulo03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\js-expert\Modulo04\aula05-reflect" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -151,6 +155,7 @@
       <workItem from="1610035183451" duration="8774000" />
       <workItem from="1610112267911" duration="5343000" />
       <workItem from="1610128087048" duration="3584000" />
+      <workItem from="1610201715054" duration="4799000" />
     </task>
     <servers />
   </component>
