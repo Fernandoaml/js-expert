@@ -1,0 +1,31 @@
+
+^\d{3}.\d{3}.\d{3}-\d{2}$
+
+088.726.146-94
+856.285.970-23
+691.418.940-49
+636.851.270-98
+947.710.300-49
+
+replace [.-] - vazio
+
+^(\w+),\s(\w+)$
+{firstName: "$2", lastName: "$1"}
+
+Leite, Fernando
+Santana, Juliana
+Wendel, Erick
+
+{firstName: "Fernando", lastName: "Leite"}
+{firstName: "Juliana", lastName: "Santana"}
+{firstName: "Erick", lastName: "Wendel"}
+
+
+\[(.*?)\]\(([http|https].*?)\)
+<a href="$2">$1</a>
+
+O [Erick Wendel](https://erickwendel.com) faz palestras e você devevia segui-lo lá no [Twitter](http://twitter.com/erickwendel_) ou até no [Instagram](https://instagram.com/erickwendel_)
+
+Ah e pesquisar no [Google](https://google.com) ou [yahoo](https://yahoo.com)
+
+vai que vai!
