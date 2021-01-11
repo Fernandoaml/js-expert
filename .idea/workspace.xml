@@ -2,9 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/regex-vscode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex-terminal.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/.nycrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/database/carCategories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/database/cars.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/database/customers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/seed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/base/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/carCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/tax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/entities/transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/repository/base/baseRepository.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/src/service/carService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/test/mocks/valid-car.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/test/mocks/valid-carCategory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/test/mocks/valid-customer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/test/unitTests/carService.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/aula05-TDD-Project-pt-03/test/useCases/story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex/regex-terminal.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/.nycrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/src/textProcessorFluentAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/test/mock/valid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/test/textProcessorFluentAPI.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/aula02-projeto01/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo05/docs/contrato.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex-terminal.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +67,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo04/aula06-proxy" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.20.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo05/aula02-projeto01" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,13 +86,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modulo05/aula02-projeto01" />
+      <recent name="$PROJECT_DIR$/Modulo05/aula02-projeto01/docs" />
+      <recent name="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex" />
       <recent name="E:\js-expert\Modulo04\aula06-proxy" />
       <recent name="E:\js-expert\Modulo04\aula05-reflect" />
-      <recent name="E:\js-expert\Modulo04\aula04-set-e-weakset" />
-      <recent name="E:\js-expert\Modulo04\aula03-Map-WeakMap" />
-      <recent name="E:\js-expert\Modulo04\aula02-symbol" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modulo05" />
+      <recent name="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex" />
       <recent name="E:\js-expert\Modulo04\aula05-reflect" />
     </key>
   </component>
@@ -159,6 +193,10 @@
       <workItem from="1610230980079" duration="2727000" />
       <workItem from="1610292576111" duration="2266000" />
       <workItem from="1610380687631" duration="4184000" />
+      <workItem from="1610386383051" duration="2082000" />
+      <workItem from="1610389762487" duration="737000" />
+      <workItem from="1610391910094" duration="348000" />
+      <workItem from="1610394690138" duration="2416000" />
     </task>
     <servers />
   </component>
