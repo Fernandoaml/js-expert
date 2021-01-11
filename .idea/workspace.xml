@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula05-reflect/aula05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo04/aula05-reflect/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula06-proxy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula06-proxy/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo04/aula06-proxy/proxy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo03/demo02-esmodules-internacionalization03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo04/aula06-proxy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,11 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\js-expert\Modulo03\demo02-esmodules-internacionalization03" />
-      <recent name="E:\js-expert\Modulo03\demo02-esmodules-internacionalization02" />
-      <recent name="E:\js-expert\Modulo03\demo02-esmodules-internacionalization" />
-      <recent name="E:\js-expert\Modulo03\demo01-this-apply-call-arguments" />
-      <recent name="E:\js-expert\Modulo03" />
+      <recent name="E:\js-expert\Modulo04\aula06-proxy" />
+      <recent name="E:\js-expert\Modulo04\aula05-reflect" />
+      <recent name="E:\js-expert\Modulo04\aula04-set-e-weakset" />
+      <recent name="E:\js-expert\Modulo04\aula03-Map-WeakMap" />
+      <recent name="E:\js-expert\Modulo04\aula02-symbol" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\js-expert\Modulo04\aula05-reflect" />
@@ -156,6 +157,8 @@
       <workItem from="1610112267911" duration="5343000" />
       <workItem from="1610128087048" duration="3584000" />
       <workItem from="1610201715054" duration="4799000" />
+      <workItem from="1610230980079" duration="2727000" />
+      <workItem from="1610292576111" duration="2266000" />
     </task>
     <servers />
   </component>
