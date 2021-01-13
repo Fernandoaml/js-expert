@@ -1,0 +1,24 @@
+{
+  "name": "aula02-projeto01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "npx mocha -w --parallel ./{,!(node_modules)/**}/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel ./{,!(node_modules)/**}/*.test.js",
+    "test:cov2": "npx nyc mocha --no-parallel ./{,!(node_modules)/**}/*.test.js --exit --check-leaks"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "safe-regex": "^2.1.1"
+  }
+}
