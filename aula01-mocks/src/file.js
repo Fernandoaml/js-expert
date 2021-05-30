@@ -13,17 +13,20 @@ class File {
     const content = await File.getFileContent(filePath);
     const validation = File.isValid(content);
     if (!validation.valid) throw new Error(validation.error);
-    const users = File.parseCSVToJSON(content);
-    return users;
+    return File.parseCSVToJSON(content);
   }
 
   static async getFileContent(filePath) {
     // const fileName = join(__dirname, filePath);
+
+    // Foi INSERIDO O () para que seja resolvido primeiro o READFILE e depois converta para toString com
+    // encode UTF-8
     return (await readFile(filePath)).toString("utf-8");
   }
 
   static isValid(csvString, options = DEFAULTOPTION) {
-    const [header, ...fileWithOutHeader] = csvString.split("\n");
+    const [header, ...fileWithOutHeader] = csvString.split("\r\n"); // Para Windows
+    // const [header, ...fileWithOutHeader] = csvString.split("\r\n"); // etc..
     const isHeaderValid = header === options.fields.join(",");
     if (!isHeaderValid) {
       return {
@@ -45,8 +48,9 @@ class File {
   }
 
   static parseCSVToJSON(csvString) {
-    const lines = csvString.split("\n");
+    const lines = csvString.split("\r\n");
     // console.log("LINES:", lines);
+    // Shift remove o primeiro elemento do array adicionando na variavel e modificando o tamanho do array
     const firstLine = lines.shift();
     // console.log("FIRSTLINE:", firstLine);
     const header = firstLine.split(",");

@@ -1,0 +1,27 @@
+{
+  "name": "aula05-TDD-Project-pt-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "seed": "node seed",
+    "test": "npx mocha -w --parallel ./{,!(node_modules)/**}/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel ./{,!(node_modules)/**}/*.test.js",
+    "test:cov2": "npx nyc mocha --no-parallel ./{,!(node_modules)/**}/*.test.js --exit --check-leaks"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^5.1.5",
+    "@types/mocha": "^8.2.0",
+    "chai": "^4.2.0",
+    "faker": "^5.1.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.2"
+  }
+}
