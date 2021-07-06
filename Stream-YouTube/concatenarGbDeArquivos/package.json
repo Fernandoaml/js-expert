@@ -1,0 +1,16 @@
+{
+  "name": "concatenargbdearquivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "DEBUG=app* & node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "4.3"
+  }
+}
