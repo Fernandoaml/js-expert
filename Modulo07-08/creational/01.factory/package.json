@@ -5,9 +5,12 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/userFactory.test.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rewiremock": "^3.14.3"
+  }
 }

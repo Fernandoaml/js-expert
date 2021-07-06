@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{@types/prettier}" />
+    <file url="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory" libraries="{js-expert/Modulo07-08/creational/02.abstract-factory/node_modules}" />
+    <file url="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml" libraries="{js-expert/Modulo07-08/creational/02.abstract-factory/node_modules}" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>

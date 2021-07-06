@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/factory/userFactory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/repository/userRepository.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/service/userService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/util/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/test/userFactory.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/browser/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/browser/table.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/console/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/console/table.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/shared/base/tableComponent.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/shared/base/viewFactory.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/shared/data.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/shared/notImplementedException.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/ui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/ui/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/platforms/browser/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/platforms/browser/table.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/platforms/console/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/platforms/console/table.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/shared/base/tableComponent.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/shared/base/viewFactory.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/shared/data.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/shared/notImplementedException.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/ui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/ui/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream-YouTube/example01.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream-YouTube/example02.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream-YouTube/example03.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream-YouTube/example04.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js-expert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js-expert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo07-08/creational/01.factory/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +45,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/ui/index.mjs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/console/table.mjs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1lTVXcM0gnebiWem8vwFPpcFhPz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,6 +69,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowPull Requests.ShowToolbar" value="false" />
@@ -44,7 +77,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/aula02-stubs/node_modules/sinon/pkg/sinon-esm.js" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.1.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="15.3.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo07-08/creational/01.factory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stream-YouTube" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,7 +89,7 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ferna\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.23421589" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -64,18 +97,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projetos\js-expert\Stream-YouTube" />
+      <recent name="E:\Projetos\js-expert\Modulo07-08\creational\02.abstract-factory\platforms\console" />
+      <recent name="E:\Projetos\js-expert\Modulo07-08\creational\02.abstract-factory\platforms\browser" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational\01.factory" />
       <recent name="E:\Projetos\js-expert" />
-      <recent name="E:\js-expert\Modulo05" />
-      <recent name="$PROJECT_DIR$/Modulo05/aula02-projeto01" />
-      <recent name="$PROJECT_DIR$/Modulo05/aula02-projeto01/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projetos\js-expert" />
+      <recent name="E:\Projetos\js-expert\Modulo07-08\creational" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational\01.factory\src" />
       <recent name="E:\Projetos\js-expert\Modulo05" />
       <recent name="$PROJECT_DIR$/Modulo05" />
-      <recent name="$PROJECT_DIR$/Modulo05/aula01-vscode-terminal-regex" />
-      <recent name="E:\js-expert\Modulo04\aula05-reflect" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -83,57 +116,43 @@
       <command value="test:cov2" />
     </option>
   </component>
-  <component name="RunManager" selected="npm.start">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modulo02/index.js" working-dir="$PROJECT_DIR$/Modulo02">
+  <component name="RunManager" selected="Node.js.example04.mjs">
+    <configuration name="example01.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example01.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modulo07-08/creational/01.factory/src/index.js" working-dir="$PROJECT_DIR$/Modulo07-08/creational/01.factory">
+    <configuration name="example02.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example02.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/Modulo07-08/creational/01.factory/package.json" />
+    <configuration name="example03.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example03.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
+      <method v="2" />
+    </configuration>
+    <configuration name="example04.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example04.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
+      <method v="2" />
+    </configuration>
+    <configuration name="web" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory/package.json" />
       <command value="run" />
       <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="test:cov" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/aula04-coverage-e2e/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test:cov" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="test:cov2 (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/aula05-TDD-Project-pt-03/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test:cov2" />
+        <script value="web" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.index.js" />
-      <item itemvalue="npm.test:cov2 (2)" />
-      <item itemvalue="npm.test:cov" />
-      <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="npm.start" />
+      <item itemvalue="Node.js.example01.mjs" />
+      <item itemvalue="Node.js.example02.mjs" />
+      <item itemvalue="Node.js.example03.mjs" />
+      <item itemvalue="npm.web" />
+      <item itemvalue="Node.js.example04.mjs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
-        <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.index.js" />
-        <item itemvalue="npm.test:cov" />
-        <item itemvalue="npm.test:cov2 (2)" />
+        <item itemvalue="Node.js.example04.mjs" />
+        <item itemvalue="Node.js.example03.mjs" />
+        <item itemvalue="Node.js.example02.mjs" />
+        <item itemvalue="Node.js.example01.mjs" />
+        <item itemvalue="npm.web" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +227,39 @@
       <workItem from="1622306898991" duration="1608000" />
       <workItem from="1622308624831" duration="12945000" />
       <workItem from="1622405233043" duration="6510000" />
+      <workItem from="1622465779346" duration="11903000" />
+      <workItem from="1622513656245" duration="114000" />
+      <workItem from="1622553174711" duration="314000" />
+      <workItem from="1622661546402" duration="607000" />
+      <workItem from="1622665941352" duration="601000" />
+      <workItem from="1622908192659" duration="2088000" />
+      <workItem from="1622929677496" duration="476000" />
+      <workItem from="1622930173189" duration="369000" />
+      <workItem from="1622930559923" duration="33000" />
+      <workItem from="1622930608304" duration="452000" />
+      <workItem from="1622931080857" duration="1760000" />
+      <workItem from="1622999989470" duration="69000" />
+      <workItem from="1623000540528" duration="634000" />
+      <workItem from="1623016120722" duration="693000" />
+      <workItem from="1623019008974" duration="4335000" />
+      <workItem from="1623093397046" duration="2340000" />
+      <workItem from="1623536160580" duration="93000" />
+      <workItem from="1624299000441" duration="2369000" />
+      <workItem from="1624362931821" duration="608000" />
+      <workItem from="1624451354036" duration="1804000" />
+      <workItem from="1624542275780" duration="776000" />
+      <workItem from="1624566864301" duration="1783000" />
+      <workItem from="1624591622492" duration="645000" />
+      <workItem from="1624625194193" duration="3165000" />
+      <workItem from="1624659696742" duration="1188000" />
+      <workItem from="1624725379071" duration="2821000" />
+      <workItem from="1624884622547" duration="16000" />
+      <workItem from="1624907602101" duration="1276000" />
+      <workItem from="1625158526694" duration="4639000" />
+      <workItem from="1625424224834" duration="10100000" />
+      <workItem from="1625512046658" duration="71000" />
+      <workItem from="1625582180159" duration="447000" />
+      <workItem from="1625582649339" duration="1602000" />
     </task>
     <servers />
   </component>
