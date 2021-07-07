@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b65880-650e-475b-9e05-c3e5fda90179" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/dataset/2017.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/dataset/2017.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/dataset/2018.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/dataset/2018.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/final.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/index.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/src/entities/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/model/productDataBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/model/productMotherObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/productValidation-data-builder.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/productValidation-mother-object.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stream-YouTube/my.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stream-YouTube/my.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +30,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/ui/index.mjs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/productValidation-mother-object.test.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/package.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/02.abstract-factory-faml/platforms/console/table.mjs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/src/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/model/productMotherObject.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/src/entities/product.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/model/productDataBuilder.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test/productValidation-data-builder.test.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1lTVXcM0gnebiWem8vwFPpcFhPz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -57,7 +58,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/aula02-stubs/node_modules/sinon/pkg/sinon-esm.js" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.1.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="15.3.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stream-YouTube/concatenarGbDeArquivos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,18 +78,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projetos\js-expert\Modulo07-08\creational\03-test-data-builder-object-mother\test" />
       <recent name="E:\Projetos\js-expert\Stream-YouTube\concatenarGbDeArquivos" />
       <recent name="E:\Projetos\js-expert\Stream-YouTube" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational\02.abstract-factory\platforms\console" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational\02.abstract-factory\platforms\browser" />
-      <recent name="E:\Projetos\js-expert\Modulo07-08\creational\01.factory" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projetos\js-expert\Modulo07-08\creational\03-test-data-builder-object-mother\test" />
       <recent name="E:\Projetos\js-expert" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational" />
       <recent name="E:\Projetos\js-expert\Modulo07-08\creational\01.factory\src" />
       <recent name="E:\Projetos\js-expert\Modulo05" />
-      <recent name="$PROJECT_DIR$/Modulo05" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -96,10 +97,7 @@
       <command value="test:cov2" />
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.mjs">
-    <configuration name="example02.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example02.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="npm.test">
     <configuration name="example03.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Stream-YouTube/example03.mjs" working-dir="$PROJECT_DIR$/Stream-YouTube">
       <method v="2" />
     </configuration>
@@ -119,20 +117,30 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Modulo07-08/creational/03-test-data-builder-object-mother/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Node.js.example02.mjs" />
       <item itemvalue="Node.js.example03.mjs" />
       <item itemvalue="Node.js.example04.mjs" />
       <item itemvalue="Node.js.index.mjs" />
       <item itemvalue="npm.start" />
+      <item itemvalue="npm.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.test" />
         <item itemvalue="Node.js.index.mjs" />
         <item itemvalue="npm.start" />
         <item itemvalue="Node.js.example04.mjs" />
         <item itemvalue="Node.js.example03.mjs" />
-        <item itemvalue="Node.js.example02.mjs" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +247,7 @@
       <workItem from="1625424224834" duration="10100000" />
       <workItem from="1625512046658" duration="71000" />
       <workItem from="1625582180159" duration="447000" />
-      <workItem from="1625582649339" duration="15678000" />
+      <workItem from="1625582649339" duration="26839000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1625584646808</created>
@@ -248,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625584646808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1625607287916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625607287916</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
